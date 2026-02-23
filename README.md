@@ -23,7 +23,7 @@ This project uses deep learning techniques to **locate and identify faces in ima
 - **Python**  
 - **OpenCV** for image processing  
 - **NumPy** for numerical computations  
-- **TensorFlow / PyTorch** (depending on your implementation)  
+- **TensorFlow / PyTorch** 
 - **Jupyter Notebook** for interactive coding and visualization
 
 ---
